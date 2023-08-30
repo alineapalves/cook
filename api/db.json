@@ -1,0 +1,168 @@
+
+{
+    "doces": [
+      {
+        "id": 1,
+        "nome": "Bolo de cenoura com cobertura chocolate",
+        "imagem": "https://bakeandcakegourmet.com.br/uploads/site/receitas/bolo-de-cenoura-sem-gluten-ghqgbkkh.jpg",
+        "tempo": "45min."
+      },
+      {
+        "id": 2,
+        "nome": "Brownie de chocolate",
+        "imagem": "https://achougastronomia.com.br/wp-content/uploads/2022/01/Receita-de-brownie-scaled.jpg",
+        "tempo": "35mim."
+
+      },
+      {
+        "id": 3,
+        "nome": "Cocada de forno",
+        "imagem": "https://stories.tudogostoso.com.br/saiba-fazer-cocada-de-forno/assets/1.jpeg",
+        "tempo": "45min."
+
+      },
+      {
+        "id": 4,
+        "nome": "Torta de limão",
+        "imagem": "https://catracalivre.com.br/wp-content/uploads/2022/03/img-8977.jpg",
+        "tempo": "50min."
+
+      },
+      {
+        "id": 5,
+        "nome": "Pudim de paçoca",
+        "imagem": "https://i0.statig.com.br/bancodeimagens/24/c5/hw/24c5hw5tb44v02294tpncz0os.jpg",
+        "tempo": "60min."
+      },
+      {
+        "id": 6,
+        "nome": "Torta de maracujá",
+        "imagem": "https://www.xl1.com.br/wp-content/uploads/2021/05/torta-de-maracuja.jpg",
+        "tempo": "40min."
+      },
+      {
+        "id": 7,
+        "nome": "Bem casado com doce de leite",
+        "imagem": "https://ciadereceitas.com.br/wp-content/uploads/2022/09/receita-de-bem-casado.png",
+        "tempo": "60min."
+      },
+      {
+        "id": 8,
+        "nome": "Mousse stikadinho",
+        "imagem": "https://assets.delirec.com/images%2FcqTSityMetVEDrFyY33BTCBzRXF2%2Frecipe%2F181bf420-1060-463d-8588-362ba5320999-Mousse-de-stikadinho-gallery-1",
+        "tempo": "20min."
+      }
+    ],
+
+    "salgada": [
+        {
+          "id": 1,
+          "nome": "Nhoque de forno",
+          "imagem": "https://www.cozinhaaz.com/wp-content/uploads/2017/04/nhoque-de-batata-1-1300x1300.jpg",
+          "tempo": "60min."
+        },
+        {
+          "id": 2,
+          "nome": "Costela suina de forno",
+          "imagem": "https://static.itdg.com.br/images/1200-675/0a869fa99fe2c59e28faeba2b6bf1bee/328455-original.jpg",
+          "tempo": "90mim."
+  
+        },
+        {
+          "id": 3,
+          "nome": "Arroz de forno",
+          "imagem": "https://assets.unileversolutions.com/recipes-v2/36559.jpg",
+          "tempo": "45min."
+  
+        },
+        {
+          "id": 4,
+          "nome": "Rocambole de carne",
+          "imagem": "https://receitinhas.com.br/wp-content/uploads/2022/12/Rocambole-de-carne-moida-A-arquiteta.jpg",
+          "tempo": "55min."
+  
+        },
+        {
+          "id": 5,
+          "nome": "Lasanha bolonhesa",
+          "imagem": "https://img.cybercook.com.br/receitas/731/lasanha-3.jpeg",
+          "tempo": "40min."
+        },
+        {
+          "id": 6,
+          "nome": "Carne de panela",
+          "imagem": "https://espetinhodesucesso.com.br/wp-content/uploads/2022/02/Quais-os-melhores-Acompanhamentos-para-carne-de-panela.jpg",
+          "tempo": "50min."
+        },
+        {
+          "id": 7,
+          "nome": "Bolinho de carne",
+          "imagem": "https://i.ytimg.com/vi/OdxfrGHmMUQ/maxresdefault.jpg",
+          "tempo": "30min."
+        },
+        {
+          "id": 8,
+          "nome": "Escondidinho de carne seca",
+          "imagem": "https://www.minhareceita.com.br/app/uploads/2022/04/ESCOND6502.jpg",
+          "tempo": "50min."
+        }
+      ],
+
+
+      "bebidas": [
+        {
+          "id": 1,
+          "nome": "Caipirinha de frutas vermelhas",
+          "imagem": "https://blog.ginbrasil.com.br/wp-content/uploads/2020/08/Gin-Brasil-11-Entenda-a-fun%C3%A7%C3%A3o-do-gelo-no-seu-drink-e-por-que-ele-%C3%A9-importante.jpg",
+          "tempo": "10min."
+        },
+        {
+          "id": 2,
+          "nome": "Mojito",
+          "imagem": "https://www.sabornamesa.com.br/media/k2/items/cache/65eb99de7f31e7479a8853734ca0c7ac_XL.jpg",
+          "tempo": "8mim."
+  
+        },
+        {
+          "id": 3,
+          "nome": "Blue lagoon",
+          "imagem": "https://www.liquor.com/thmb/-Ednp4bA2pQ79BY4Mf-2vdLegJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__07__12152657__blue-lagoon-720x720-recipe-647fb82bc3214de68e0eed9aed5afbfa.jpg",
+          "tempo": "12min."
+  
+        },
+        {
+          "id": 4,
+          "nome": "Cuba Libre",
+          "imagem": "https://cardapio.menu/storage/media/dishes_main/2286054/cuba-libre.jpg",
+          "tempo": "7min."
+  
+        },
+        {
+          "id": 5,
+          "nome": "Cosmopolitan",
+          "imagem": "https://www.simplejoy.com/wp-content/uploads/2018/03/cosmopolitan_drink.jpg",
+          "tempo": "10min."
+        },
+        {
+          "id": 6,
+          "nome": "Caipirinha de limão",
+          "imagem": "https://claudia.abril.com.br/wp-content/uploads/2020/01/dicas-para-fazer-a-caipirinha-perfeita-kajakiki-1.jpg?quality=85&strip=info",
+          "tempo": "7min."
+        },
+        {
+          "id": 7,
+          "nome": "Sexy on the beach",
+          "imagem": "https://www.receiteria.com.br/wp-content/uploads/sex-on-the-beach-01.jpg",
+          "tempo": "10min."
+        },
+        {
+          "id": 8,
+          "nome": "Pina colada",
+          "imagem": "https://3.bp.blogspot.com/-3K1EH8Q6_-g/Vgb9m9G5H6I/AAAAAAAAA68/yaXhayZZNQg/s1600/Draaanks-Pina-Colada.jpeg",
+          "tempo": "10min."
+        }
+      ]
+    
+}
+    
+  

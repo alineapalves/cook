@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;600&family=Poppins:wght@100&display=swap');
+
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  --header-color: #BBCDB5;
+  --verde-escuro: #586553;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;font-family: 'Montserrat', sans-serif;
+}
+
+
+.Header {
+  background-color: var(--header-color);
+  height: 180px;
+  box-shadow:0px 4px 4px #696767;
+  display:flex;
+  align-items: center;
+}
+
+.Logo {
+  width: 106px;
+  height: 149px;
+  margin-left: 10vh;
+}
+
+.Conteudo{
+  text-align: center;
+  margin-left: 34vh;
+}
+
+Input{
+  width: 482px;
+  height: 32px;
+  border: solid 1px var(--verde-escuro);
+  box-shadow: inset 0 4px 4px #809678;
+  border-radius: 10px;
+  background-color: var(--header-color);
+  font-family: 'Montserrat', sans-serif;
+  color: var(--verde-escuro);
+  font-weight:lighter;
+  font-size: 14px;
+  margin-top: 46px;
+  margin-bottom: 55px;
+}
+
+
+Button{
+  width: 150px;
+  height: 33px;
+  border-radius: 5px;
+  background-color: #AC5050;
+  border: none;
+  box-shadow:0px 4px 4px #696767;
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  font-weight:lighter;
+  font-size: 14px;
+  margin: 0px 8px 14px 8px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+Button:hover{
+  width: 150px;
+  height: 33px;
+  border-radius: 5px;
+  background-color: var(--verde-escuro);
+  border: none;
+  box-shadow:0px 4px 4px #696767;
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  font-weight:lighter;
+  font-size: 14px;
+  margin: 0px 8px 14px 8px;
+  cursor:pointer;
+}
+.Login{
+  margin-top: 120px;
+  margin-left: 55vh;
+  color: var(--verde-escuro);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  text-decoration: none;
+}
+.Logar{
+  text-decoration: none;
+}
