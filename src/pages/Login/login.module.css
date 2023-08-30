@@ -1,0 +1,87 @@
+
+html{
+    font-size: 62.5%;
+  }
+
+.Container{
+background-image: url('https://photos.google.com/search/_tra_/photo/AF1QipOXQvv-fVAvy_KcXF70_NNII2ld77IJVfnm6QQM    ');
+width: 144rem;
+height:129.5rem; 
+display:flex;
+text-align:center;
+flex-direction: column;
+height: 100vh;
+align-items: center;
+justify-content: center;
+margin: 0;
+color: #484747;
+font-family: montserrat;
+}
+
+
+.Logar{
+width: 58.9rem;
+height: 47.1rem;
+background-color: #d9d9d9;
+border-radius: 0.8rem;
+padding: 1rem;
+}
+
+
+.Usuario{
+background: #fff;
+color: #000;
+font-size: 2rem;
+font-weight: 40rem;
+border: transparent;
+margin: 0.8rem;
+margin-top: 2rem;
+width: 46rem;
+height: 4rem;
+box-shadow:0px -4px 4px #696767;
+
+}
+
+.Senha{
+background: #fff;
+color: #000;
+font-size: 2rem;
+font-weight: 40rem;
+border: transparent;
+width: 46rem;
+height: 4rem;
+box-shadow:0px -4px 4px #696767;
+margin-top: 0.8rem;
+}
+
+
+.Button{
+    width: 23rem;
+    height: 3.3rem;
+    border-radius: 5px;
+    background-color: #AC5050;
+    border: none;
+    box-shadow:0px 4px 4px #696767;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-weight:lighter;
+    font-size: 1.4rem;
+    margin: 0px 8px 14px 8px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .Button:hover{
+    width: 23rem;
+    height: 3.3rem;
+    border-radius: 5px;
+    background-color: var(--verde-escuro);
+    border: none;
+    box-shadow:0px 4px 4px #696767;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-weight:lighter;
+    font-size: 1.4rem;
+    margin: 0px 8px 14px 8px;
+    cursor:pointer;
+  }

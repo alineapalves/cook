@@ -1,31 +1,18 @@
 import React from "react";
-import styled from "styled-components";
 import Header from "./../../components/Header/index";
 import Footer from "./../../components/Footer/index";
+import styles from "../Cadastrar/cadastrar.module.css";
 
 
 
-const Container = styled.div`
-background-image: url("");
-width: 1440px auto;
-height:1295px auto; 
-display:flex;
-text-align:center;
-flex-direction: column;
-height: 100vh;
-align-items: center;
-
-justify-content: space-between auto;
-margin: 0;
-`;
-const Cad = styled.div`
-width: 589px;
-height: 471px;
-background-color: #EFEEEE;
-border-radius: 8px;
 
 
-`;
+
+
+
+
+
+
 
 
 function Cadastrar() {
@@ -34,43 +21,43 @@ function Cadastrar() {
 
     return (
         <>
-        <Header />
-            <Container>
+        <Header/>
+            <div className={styles.Container}>
                 
 
-                <Cad>
-                    <h1>Cadastrar</h1>
+                <div className={styles.Cad}>
+                    <h1>Cadastro</h1>
                     <form >
                         <div >
                             <label htmlFor=""></label>
                             
-                            <input type="text" id="title" name="title"placeholder="Nome" />
+                            <input className={styles.Usuario} type="text" id="title" name="title"placeholder="Nome" />
                         </div>
                         <div >
                             <label htmlFor=""></label>
                             
-                            <input type="text" id="title" name="title" placeholder="Email" />
+                            <input className={styles.Usuario}  type="text" id="title" name="title" placeholder="Email" />
                         </div>
                         <div >
                             <label htmlFor=""></label>
                             
-                            <input type="text" id="title" name="title" placeholder="Telecone"/>
+                            <input className={styles.Usuario} type="text" id="title" name="title" placeholder="Telefone"/>
                         </div>
                         <div >
                             <label htmlFor=""></label>
                         
-                            <input type="password" id="url" name="url" placeholder="Senha"/>
+                            <input className={styles.Senha} type="password" id="url" name="url" placeholder="Senha"/>
                         </div>
-                        <button type="submit"> Logar </button><br />
+                        <button className={styles.Button} type="submit"> Cadastrar </button><br />
                         <a href="">Esqueceu a senha</a>
 
 
                     </form>
-                </Cad>
+                </div>
 
 
-            </Container>
-            <Footer />
+            </div>
+            <Footer/>
         </>
 
         
